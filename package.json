@@ -1,6 +1,6 @@
 {
   "name": "vue-pdf-embed-fix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PDF embed component for Vue 2 and Vue 3, Fix On print, blank page at the end",
   "keywords": [
     "vue",
