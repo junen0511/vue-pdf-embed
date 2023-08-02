@@ -1,7 +1,7 @@
 {
-  "name": "vue-pdf-embed",
-  "version": "1.1.6",
-  "description": "PDF embed component for Vue 2 and Vue 3",
+  "name": "vue-pdf-embed-fix",
+  "version": "1.0.0",
+  "description": "PDF embed component for Vue 2 and Vue 3, Fix On print, blank page at the end",
   "keywords": [
     "vue",
     "vuejs",
@@ -15,7 +15,7 @@
     "types/*"
   ],
   "license": "MIT",
-  "author": "Aliaksei Hrynko (https://github.com/hrynko)",
+  "author": "TanFei(attanhao@gmail.com), Aliaksei Hrynko (https://github.com/hrynko),",
   "repository": "github:hrynko/vue-pdf-embed",
   "scripts": {
     "prepare": "webpack build",
